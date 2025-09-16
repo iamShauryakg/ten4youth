@@ -1,4 +1,4 @@
-import Head3 from "../components/Head3";
+import Head3 from "../Components/Head3";
 
 
 function Get_involved() {
