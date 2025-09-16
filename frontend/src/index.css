@@ -1,0 +1,17 @@
+.lla-section {
+  position: relative;
+  background: #efefef;
+  clip-path: ellipse(150% 100% at 50% 0%);
+  border-bottom-left-radius: 100% 150px;
+  border-bottom-right-radius: 100% 150px;
+  border-top-right-radius: 100% 150px;
+  border-top-left-radius: 100% 150px;
+}
+
+.flip-card-inner {
+  transform-style: preserve-3d;
+}
+.flip-card-front,
+.flip-card-back {
+  backface-visibility: hidden;
+}
