@@ -4,8 +4,9 @@ import Head1 from "../Components/Head1";
 import Integration from "../Components/Solutions/Integration";
 import TrainingCenter from "../Components/Solutions/Trainingcenter";
 import TrainingTools from "../Components/Solutions/TrainingTools";
-import Angles_Academy from "../Components/Solutions/Angles_Academy";
 import Inclusion from "../Components/Solutions/Inclution"; 
+import Angles_Academy from "../Components/Solutions/Angles_Academy";
+
 
 
 
